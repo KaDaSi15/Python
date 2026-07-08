@@ -1,0 +1,6 @@
+name = input("Enter your name: ")
+name = name.strip().title()
+age = int(input("Enter your age: "))
+percentage = float(input("Enter your percentage: "))
+percentage = round(percentage,2)
+print (f"Name: {name} \n Age: {age} \n Percentage: {percentage}")

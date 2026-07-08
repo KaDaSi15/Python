@@ -1,0 +1,5 @@
+employee = input("Enter employee name: ")
+salary = float(input("Enter your monthly salary: "))
+salary = round(salary, 2)
+experience = int(input("Enter your years of experience: "))
+print(f"Employee name: {employee} \n Slary: {salary:,} \n Experience: {experience}")

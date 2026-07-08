@@ -1,0 +1,6 @@
+name = input("Enter your full name: ")
+name = name.strip()
+#first , last = name.split(" ")
+print(f"Name: {name.capitalize()}")
+print(f"Name: {name.title()}")
+print(f"Name: {name.split(" ")}")
