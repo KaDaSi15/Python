@@ -2,7 +2,7 @@
 
 Welcome to my Python learning journey! 🚀
 
-I'm a Class 11 student learning Python from scratch. This repository documents my progress, projects, and practice programs as I build a strong foundation in programming.
+I'm a Class 11 student learning Python from scratch through **Harvard's CS50P** course. This repository documents my progress, projects, and practice programs as I build a strong foundation in programming and prepare for advanced topics like AI and Machine Learning.
 
 ---
 
@@ -76,16 +76,64 @@ I'm a Class 11 student learning Python from scratch. This repository documents m
 
 ---
 
-## 🎯 Goals
+## ✅ Week 3 – Exception Handling & Python Libraries
+
+### 📚 Topics Learned
+- Exception Handling (`try`, `except`, `else`)
+- Handling `ValueError`
+- Raising Custom Exceptions (`raise`)
+- Python Standard Libraries
+  - `random`
+  - `statistics`
+  - `sys`
+- Installing Third-Party Packages with `pip`
+
+### 💻 Projects Completed
+- Safe Input Validator
+- Safe Divide Calculator
+- ATM Withdrawal System
+- Safe List Index Handler
+- Robust Calculator
+- Dice Roller
+- Grade Average Calculator
+- Coin Flip Simulator
+- Command-Line Greeter
+- Password Generator
+
+### 🎯 Skills Practiced
+- Exception Handling
+- Input Validation
+- Writing Robust Programs
+- Using Python Standard Libraries
+- Command-Line Arguments
+- Installing & Using Packages
+- Building Interactive Console Applications
+- Creating Secure Random Passwords
+
+---
+
+# 🎯 Goals
 
 - Build a strong Python foundation.
 - Solve programming challenges consistently.
 - Create real-world projects.
 - Learn Data Structures & Algorithms.
 - Explore Automation, AI, and Machine Learning.
+- Build an impressive developer portfolio on GitHub.
 
 ---
 
-⭐ Thank you for visiting my repository!
+# 📈 Current Progress
 
-I'm documenting my Python learning journey one week at a time. Feel free to explore the code and follow my progress.
+- ✅ Week 1 Completed
+- ✅ Week 2 Completed
+- ✅ Week 3 Completed
+- ⏳ Week 4 Coming Soon...
+
+---
+
+⭐ **Thank you for visiting my repository!**
+
+I'm documenting my Python learning journey **one week at a time**, sharing the concepts I learn and the projects I build along the way.
+
+If you're also learning Python, feel free to explore the code, share feedback, or follow my progress. 🚀
